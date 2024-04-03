@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Danny Estrada <dannyws@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lodijodanny/random-string-msg-lodijodanny"
+  },
+  "homepage": "https://github.com/lodijodanny/random-string-msg-lodijodanny",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
