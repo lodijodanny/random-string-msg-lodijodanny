@@ -1,0 +1,12 @@
+{
+  "name": "random-string-msg-lodijodanny",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danny Estrada <dannyws@gmail.com>",
+  "license": "MIT"
+}
