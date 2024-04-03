@@ -19,6 +19,7 @@
   "preferGlobal": true,
   "dependencies": {
     "g": "^2.0.1",
+    "random-str-msg": "^1.1.0",
     "user": "^0.0.0"
   }
 }
